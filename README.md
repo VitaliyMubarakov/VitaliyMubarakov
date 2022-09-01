@@ -1,6 +1,6 @@
 ### Ну шож 👋
 
-https://user-images.githubusercontent.com/58411554/187961951-631ccc43-4876-43c4-b1a1-0f4083585743.mp4
+![ezgif-4-cf3c938182](https://user-images.githubusercontent.com/58411554/187963070-688cf3cf-61d9-4248-8358-d1c6676123d2.gif)
 
 <!--
 **VitaliyMubarakov/VitaliyMubarakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
